@@ -31,7 +31,11 @@ These instructions outline how to install Mattermost Server on a 64-bit Linux ho
   
    .. code:: bash
 
+    # Enterprise Edition
     wget https://releases.mattermost.com/X.X.X/mattermost-X.X.X-linux-amd64.tar.gz
+
+    # Team Edition
+    wget https://releases.mattermost.com/X.X.X/mattermost-team-X.X.X-linux-amd64.tar.gz
 
 4. Extract the Mattermost Server files.
   
